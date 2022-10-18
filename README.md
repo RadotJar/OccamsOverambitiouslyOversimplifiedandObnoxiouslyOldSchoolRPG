@@ -1,4 +1,4 @@
-# Occam's Empire
+# Occam's Empire Of Dirt
 Developing a homebrew rules system for tabletop roleplay gaming, keeping it LIGHT AND TITE.
 
 ## Current Modules
