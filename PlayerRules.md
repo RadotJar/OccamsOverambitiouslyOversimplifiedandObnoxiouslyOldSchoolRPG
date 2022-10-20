@@ -2,7 +2,7 @@
 ## Characters
 There are three Attributes:
 * Strength - measures raw physical power
-    * A Strength of 5+ gives a +1 to Hit rolls
+    * A Strength of 5+ gives a +1 to Attack rolls
 * Dexterity - measures speed and deftness of action
     * A Dexterity of 5+ gives a +1 to Dodging saves
 * Constitution - measures endurance and health
@@ -23,7 +23,7 @@ Characters wearing Heavy Armour subtract 1 from their Dodging save.
 Characters begin play with:
 * 3d6*10 hacksilver worth of equipment. Anything not spent is lost
 * 1 Hit Die. This is rolled to determine their starting Hit Points
-* An attack roll of 3
+* An Attack roll of 3
 * Knowing 1d6/2 languages
     * A language can be 'half-known' - enough to conduct trade
     * All characters should share at least one 'half-known' language - the speech of their ex-captors
