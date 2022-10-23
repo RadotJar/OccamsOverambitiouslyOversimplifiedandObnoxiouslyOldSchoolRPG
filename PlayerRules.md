@@ -31,34 +31,34 @@ Characters begin play with:
 ### Weapons
 Light weapons roll 2d6 and take the lower die as damage. Medium weapons roll 1d6 as damage. Heavy weapons roll 2d6 and take the higher die as damage.
 
-
-
-
 | Weapon | Cost | Weight | Special |
 | ------ | ---- | ------ | ------- |
-| Battle-axe | 10sp | Medium | Forgo a damage roll to attempt a weapon/shield strip. Make a Strength save to disarm. |
-| Club | 5sp | Light | Forgo a damage roll to attempt a stun. Make a Strength save to force the target to miss their turn this round, all attacks against them have advantage. |
-| Dagger | 5sp | Light | Throw-able, usable in grapple situations. |
+| Battle-axe | 10sp | Medium | Forgo a damage roll to attempt a weapon/shield strip. |
+| Club | 5sp | Light | Forgo a damage roll to attempt a stun. The misses their turn and all attacks against them have advantage this round. |
+| Dagger | 5sp | Light | Throwable, ignores armour in grapple situations. |
 | Flail | 8sp | Medium | Ignores shields. |
-| Greatsword | 40sp | Heavy | Upon a killing blow, the wielder may attack another target. This can be chained. |
+| Greatsword* | 40sp | Heavy | Upon a killing blow, the wielder may attack another target. This can be chained. |
 | Hand-Axe | 6sp | Light | Throwable. If 4+ damage is dealt, the hand-axe bounces to another target, roll damage again. |
-| Polearm | 15sp | Heavy | Make a DEX save anytime an opponent tries to move close to you. If successful, you get a free attack and they halt their advance. |
-| Poleaxe | 20sp | Heavy | Can use the special of a battle-axe or polearm but takes one turn to switch stance. |
 | Javelin | 5sp | Medium | Throwable. |
-| Longbow | 30sp | Medium | Each round spent aiming adds one advantage. |
-| Longsword | 12sp | Medium | Riposte once |
+| Longbow* | 30sp | Medium | Each round spent aiming adds one advantage. |
+| Longsword | 12sp | Medium | Riposte once per round |
 | Mace | 8sp | Medium | Ignores 1 point of armour. |
+| Poleaxe* | 20sp | Heavy | Can use the special of a battle-axe or spear but takes one turn to switch stance. |
 | Quarterstaff | 5sp | Light | Gives +1 to any martial-arts type moves attempted with it. |
-| Shortbow | 15sp | Medium | Can fire while moving. |
+| Shortbow* | 15sp | Medium | Can fire while moving. |
 | Shortsword | 8sp | Light | Riposte twice per round. |
 | Sling | 1sp | Light | Can be thrown as a bolas to ensnare a target or used as a strangulation device in close quarters. |
-| Two-Handed Axe | 25sp | Heavy | If a 6 is rolled for damage, roll another die and add it to the damage. This can be chained. |
-| Warhammer | 25sp | Heavy | On a 5 or 6, the target is thrown backwards and knocked prone. |
+| Spear* | 15sp | Heavy | Make a DEX save anytime an opponent tries to move close to you. If successful, you get a free attack and they halt their advance. |
+| Two-Handed Axe* | 25sp | Heavy | If a 6 is rolled for damage, roll another die and add it to the damage. This can be chained. |
+| Warhammer* | 25sp | Heavy | On a 5 or 6, the target is thrown backwards and knocked prone. |
+
+\* Requires two hands
 
 Advantage - Add or subtract 1d6 to the damage roll, whichever would give them better odds according to their weapon weight.
+
 Riposte - If hit by <3 damage, you may make a free attack against the attacker.
 
-_These special abilties are just examples of what a weapon might do. Feel free to discuss with your DM if you have other ideas in a given situation._
+_These special abilties are just examples of what a weapon might do. You are encouraged to discuss with your DM if you have other ideas in a given combat situation._
 ### Armour
 ### Adventuring Tools
 ### Livestock
