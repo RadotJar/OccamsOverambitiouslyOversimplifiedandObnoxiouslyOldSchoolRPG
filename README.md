@@ -5,4 +5,5 @@ Developing a homebrew rules system for tabletop roleplay gaming, keeping it LIGH
 ### Player Rules
   - [x]  Characters
   - [x]  Core Resolution
+  - []   Equipment
 ### Dungeon Master Rules
