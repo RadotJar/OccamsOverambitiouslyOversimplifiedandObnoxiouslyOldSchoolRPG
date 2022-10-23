@@ -27,6 +27,8 @@ Characters begin play with:
 * Sharing a small raiding vessel (_Karvi_) with their fellow characters and twelve rowers - fellow ex-thralls who look to you for leadership. There is enough food and water for all hands to survive for four days. You have travelled two days from the home of your ex-captors.
 
 ## Equipment
+Characters have two hand item slots and six body slots. The body slots represent items easily accesible: slung about the body, hanging from the belt etc. Characters can carry more items by wearing containers such as backpacks and satchels but these come with drawbacks. Worn items such as clothes and armour do not take up slots.
+
 ### Trinkets
 ### Weapons
 Light weapons roll 2d6 and take the lower die as damage. Medium weapons roll 1d6 as damage. Heavy weapons roll 2d6 and take the higher die as damage.
@@ -60,6 +62,11 @@ Riposte - If hit by <3 damage, you may make a free attack against the attacker.
 
 _These special abilties are just examples of what a weapon might do. You are encouraged to discuss with your DM if you have other ideas in a given combat situation._
 ### Armour
+Two piece of Light armour provide 1 point of damage reduction. Medium armour provides 1 point of damage reduction. Heavy armour provides 2 points of damage reduction.
+
+| Armour | Cost | Weight | Special |
+| ------ | ---- | ------ | ------- |
+
 ### Adventuring Tools
 ### Livestock
 
