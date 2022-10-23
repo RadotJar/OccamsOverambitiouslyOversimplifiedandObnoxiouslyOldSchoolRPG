@@ -3,6 +3,6 @@ Developing a homebrew rules system for tabletop roleplay gaming, keeping it LIGH
 
 ## Current Modules
 ### Player Rules
-  - []  Characters
-  - []  Core Resolution
+  - [x]  Characters
+  - [x]  Core Resolution
 ### Dungeon Master Rules
