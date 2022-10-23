@@ -37,7 +37,7 @@ Light weapons roll 2d6 and take the lower die as damage. Medium weapons roll 1d6
 | Weapon | Cost | Weight | Special |
 | ------ | ---- | ------ | ------- |
 | Battle-axe | 10sp | Medium | Forgo a damage roll to attempt a weapon/shield strip. Make a Strength save to disarm. |
-| Club | 5sp | Light | Forgo a damage roll to attempt a stun. Make a Strength save to force the target to miss their turn this round, all attacks against them have. |
+| Club | 5sp | Light | Forgo a damage roll to attempt a stun. Make a Strength save to force the target to miss their turn this round, all attacks against them have advantage. |
 | Dagger | 5sp | Light | Throw-able, usable in grapple situations. |
 | Flail | 8sp | Medium | Ignores shields. |
 | Greatsword | 40sp | Heavy | Upon a killing blow, the wielder may attack another target. This can be chained. |
