@@ -62,10 +62,48 @@ Riposte - If hit by <3 damage, you may make a free attack against the attacker.
 
 _These special abilties are just examples of what a weapon might do. You are encouraged to discuss with your DM if you have other ideas in a given combat situation._
 ### Armour
-Two piece of Light armour provide 1 point of damage reduction. Medium armour provides 1 point of damage reduction. Heavy armour provides 2 points of damage reduction.
+Light armour provides 1 Armour. Medium armour provides 2 Armour. Heavy armour provides 3 Armour.
 
 | Armour | Cost | Weight | Special |
 | ------ | ---- | ------ | ------- |
+| Cloak | | Light | Tends to get caught on things. Upon being targeted by 1 damage, you may attempt to catch the attacker's weapon in your cloak and disarm them or throw them off balance. |
+| Chain Coif | | Medium | For every piece of undamaged armour, add one additional die to your Armour roll. |
+| Chain Leggings | | Heavy | Allow them to be damaged only to wrench yourself free of their blow, pulling them off balance and sending them behind you. |
+| Chain Mits | | Medium | Allow them to be damaged to attempt to wrench your opponent's weapon from their grasp. |
+| Chain Shirt | | Heavy | Allow it to be damaged to negate all damage from a single slashing attack. |
+| Gambeson | | Medium | Once per combat, negate all damage from a single attack. |
+| Gauntlets | | Medium | Upon an armour roll negating all damage, may attempt to sucker punch the attacker, causing them to lose their turn and all attacks against them to have advantage for this round. |
+| Gloves | | Light | Upon facing only 1 damage from an attack, may attempt to damage one pice of the attacker's armour. |
+| Leather Cap | | Light | If you score at least one success on your Armour roll, you automatically negate an additional point of damage. |
+| Leather Vambrace | | Light | Forgo an Armour roll to attempt to grappled with the attacker. |
+| Padded Coif | | Light | Upon faceing 6 damage, automatically reduce it to 5 before your Armour roll. |
+| Padded Tunic | | Light | Automatically negate any bludgeoning attack dealing 1 or 2 damage. |
+| Plate Cuirass | | Heavy | When making an Armour roll against a piercing attack, a success allows you to roll another die. This effect can be chained. |
+| Plate Helm and Visor | | Heavy | If you would take any damage after your Armour roll, roll the dice contributed by this helm again. | 
+| Sabatons and Greaves | | Heavy | Upon an armour roll negating all damage, may attempt a shin/groin kick to cause the attacker to fall into you. |
+| Steel Cap Boots | | Medium | Forgo an armour roll to attempt to trip the attacker, knocking them prone. |
+| Suede Boots | | Light | Upon facing only 1 damage from an attack, may attempt to vault/slide through the legs of the attacker. |
+
+
+Damaged - Remove 1 Armour until repaired.
+
+**Note** - This will be written in combat rules later, but each point of "Armour" adds 1d6 to a pool you roll when attacked. Each success negates 1 point of damage.
+
+**Note** - Armour "materials" and "locations" have mechanical themes:
+* Materials
+    * Chain - Do cool stuff by sacrificing your armour (the ragged roustabout)
+    * Padded/Cloth - Do cool stuff when you are lucky enough to receive low damage (the foolish fiend)
+    * Plate - Do cool stuff when your armour absorbs all the damage (the tank chad)
+    * Leather - Forgo an armour roll to do cool stuff (the risky rapscallion)
+
+* Locations
+    * Torso - Is good at absorbing a certain type of damage
+    * Hands - Counters
+    * Head - Off Material Theme
+    * Feet/Legs - Maneuvering
+
+_These special abilties are just examples of what a piece of armour might do. You are encouraged to discuss with your DM if you have other ideas in a given combat situation._
+
 
 ### Adventuring Tools
 ### Livestock
