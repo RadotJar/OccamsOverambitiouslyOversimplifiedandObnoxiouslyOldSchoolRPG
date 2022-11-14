@@ -27,7 +27,9 @@ Characters begin play with:
 * Sharing a small raiding vessel (_Karvi_) with their fellow characters and twelve rowers - fellow ex-thralls who look to you for leadership. There is enough food and water for all hands to survive for four days. You have travelled two days from the home of your ex-captors.
 
 ## Equipment
-Characters have two hand item slots and six body slots. The body slots represent items easily accesible: slung about the body, hanging from the belt etc. Characters can carry more items by wearing containers such as backpacks and satchels but these come with drawbacks. Worn items such as clothes and armour do not take up slots.
+Characters have a total of 10 inventory slots: six backpack slots and four quick slots. Two quick slots represent items held in the hands and the other two items worn on the body, slung from the belt etc. Hand and body slots are easily accesible whereas backpack slots require some degree of rummaging.
+
+For those seeking to fulfill a classical role or "class", a number of equipment packs are provided.
 
 ### Trinkets
 ### Weapons
@@ -62,16 +64,16 @@ Riposte - If hit by <3 damage, you may make a free attack against the attacker.
 
 _These special abilties are just examples of what a weapon might do. You are encouraged to discuss with your DM if you have other ideas in a given combat situation._
 ### Armour
-Armour is worn as individual pieces. Each piece of armour has a weight which determines its Armour Dice (AD) and number of inventory slots. Light Armour pieces provide 1 AD and take up 1 slot. Medium Armour pieces provide 2 AD and take up 2 slots. Heavy Armour pieces provide 3 AD and take up 3 slots.
+Armour provides or increases a character's armour class (AC). When facing damage, a character's AC is subtracted from that damage. A character can not have greater than 3 AC.
 
-Some examples of armour pieces:
-- Cloak - Light
-- Leather Vambraces - Light
-- Chain Tunic - Medium
-- Great Helm - Heavy
+| Armour | Cost | Slots | AC |
+| ------ | ---- | ------ | -- |
+| Brigandine | 15sp | 2 Body | 1 |
+| Chainmail | 75sp | 2 Body, 2 Backpack | 2 |
+| Plate | 150sp | 2 Body, 4 Backpack | 3 |
+| Shield* | 15sp | 1 Hand | +1 |
 
-_Armour pieces are more than their AD. You are encouraged to think of interesting ways to make use of armour pieces, and also think about the consequences of wearing them. Example: A cloak only provides 1 AD but you may be able to catch an opponent's weapon with it and disarm them. A great helm provides 3 AD but may also obscure your vision and make you susceptible to ambushes._
-
+\* - Shields can be used with other armour to increase AC by 1, to a maximum of 3.
 
 ### Adventuring Tools
 ### Livestock
