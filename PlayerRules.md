@@ -73,10 +73,57 @@ Armour provides or increases a character's armour class (AC). When facing damage
 | Plate | 150sp | 2 Body, 4 Backpack | 3 |
 | Shield* | 15sp | 1 Hand | +1 |
 
-\* - Shields can be used with other armour to increase AC by 1, to a maximum of 3.
+\* - Shields can be used with other armour to increase AC by 1, to a maximum of 3. Shields can also be sundered to negate all damage.
 
-### Adventuring Tools
+### Adventuring Supplies
+| Item | Cost | Slots | | Item | Cost | Slots |
+| ---- | ---- | ----- | - | ---- | ---- | ----- |
+| Bandages (3) | 6sp | 1/2 | | Mirror, Small Metal | 5sp | 1/2 |
+| Bedroll | 2sp | 1 | | Mirror, Small Silver | 20sp | 1/2 |
+| Bottle | 5sp | 1 | | Net | 10sp | 1 |
+| Box, Large Iron | 30sp | 2 | | Oil, Pint, Flask (3) | 15sp | 1/2 |
+| Box, Small Iron | 15sp | 1 | | Pole, 10' | 5sp | 2 |
+| Candle, Tallow (3) | 3sp | 1/2 | | Ration, Dry Day (3) | 15sp | 1 | 
+| Candle, Wax (3) | 6sp | 1/2 | | Ration, Trail Day (3) | 6sp | 1 |
+| Cart | 50sp | - | | Rope, 50' Silken | 70sp | 1 |
+| Case, Map | 5sp | 1 | | Rope, 50' Hemp | 5sp | 1 |
+| Checkers | 5sp | 1 | | Sack | 1sp | 1 |
+| Chest, Large Wooden | 15sp | 2 | | Shovel | 5sp | 1 |
+| Chest, Small Wooden | 8sp | 1 | | Shovel, Wooden | 5sp | 1 |
+| Compass | 100sp | 1/2 | | Water or Wineskin | 15sp | 1 |
+| Crowbar | 5sp | 1 | | Skiing Equipment | 15sp | 2 |
+| Dice | 2sp | 1/2 | | Sled | 20sp | 2 |
+| Flint & Steel | 5sp | 1/2 | | Snare | 1sp | 1/2 |
+| Grappling Hook | 10sp | 1 | | Iron Spikes (3) | 9sp | 1 |
+| Hammer & Wooden Stakes | 5sp | 1 | | Tent | 15sp | 2 |
+| Laboratory (portable) | 150sp | 2 | | Tinderbox | 10sp | 1/2 |
+| Lantern, Bullseye | 12sp | 1 | | Torches (3) | 1sp | 1 |
+| Lantern, Hooded | 7sp | 1 | | Wagon | 150sp | - |
+| Lockpicks (3) | 25sp | 1/2 |
+| Map, Local | 20sp | 1 |
+| Mirror, Large Metal | 10sp | 1 |
+
+
 ### Livestock
+| Animal | Cost |
+| ------ | ---- |
+| Chicken | 1sp |
+| Cow | 10sp |
+| Dog | 15sp |
+| Donkey | 8sp |
+| Goat | 3sp |
+| Hawk | 20sp |
+| Horse, Draught | 30sp |
+| Horse, War | 200sp |
+| Horse, Riding | 25sp |
+| Mule | 20sp |
+| Ox | 15sp |
+| Pidgeon | 1sp |
+| Piglet | 1sp |
+| Pig | 3sp |
+| Pony | 15sp | 
+| Sheep | 2sp |
+| Songbird | 25sp |
 
 ## Core Resolution Mechanics
 ### Saves
