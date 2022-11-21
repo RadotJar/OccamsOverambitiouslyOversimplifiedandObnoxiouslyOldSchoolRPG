@@ -66,7 +66,7 @@ _These special abilties are just examples of what a weapon might do. You are enc
 ### Armour
 Armour provides or increases a character's armour class (AC). When facing damage, a character's AC is subtracted from that damage. A character can not have greater than 3 AC.
 
-Armour is layered to provide cumulative benefit. Wearing light armour such as a Brigandine and padded coif takes two body slots, giving 1 AC. Wearing medium armour over the top, such as a chainmail hauberk, additionaly takes two backpack slots and increases AC to 2. Wearing heavy armour over the top of this, such as plate, takes another two backpack slots and provides a further 1 AC.
+Armour is layered to provide cumulative benefit. Wearing light armour such as a Brigandine and padded coif takes two body slots, giving 1 AC. Wearing medium armour over the top, such as a chainmail hauberk, additionaly takes two backpack slots and increases AC to 2. Wearing heavy armour over the top of this, such as plate, takes another two backpack slots and increases AC to 3.
 
 | Armour | Cost | Slots | AC |
 | ------ | ---- | ------ | -- |
