@@ -66,14 +66,16 @@ _These special abilties are just examples of what a weapon might do. You are enc
 ### Armour
 Armour provides or increases a character's armour class (AC). When facing damage, a character's AC is subtracted from that damage. A character can not have greater than 3 AC.
 
+Armour is layered to provide cumulative benefit. Wearing light armour such as a Brigandine and padded coif takes two body slots, giving 1 AC. Wearing medium armour over the top, such as a chainmail hauberk, additionaly takes two backpack slots and increases AC to 2. Wearing heavy armour over the top of this, such as plate, takes another two backpack slots and provides a further 1 AC.
+
 | Armour | Cost | Slots | AC |
 | ------ | ---- | ------ | -- |
 | Brigandine | 15sp | 2 Body | 1 |
-| Chainmail | 75sp | 2 Body, 2 Backpack | 2 |
-| Plate | 150sp | 2 Body, 4 Backpack | 3 |
+| + Chainmail | 100sp | 2 Body, 2 Backpack | 2 |
+| ++ Plate | 250sp | 2 Body, 4 Backpack | 3 |
 | Shield* | 15sp | 1 Hand | +1 |
 
-\* - Shields can be used with other armour to increase AC by 1, to a maximum of 3. Shields can also be sundered to negate all damage.
+\* - Shields can be used with other armour to increase AC by 1, to a maximum of 3, they can also be sundered to negate all damage.
 
 ### Adventuring Supplies
 | Item | Cost | Slots | | Item | Cost | Slots |
@@ -105,26 +107,19 @@ Armour provides or increases a character's armour class (AC). When facing damage
 
 
 ### Livestock
-| Animal | Cost |
-| ------ | ---- |
-| Chicken | 1sp |
-| Cow | 10sp |
-| Dog | 15sp |
-| Donkey | 8sp |
-| Goat | 3sp |
-| Hawk | 20sp |
-| Horse, Draught | 30sp |
-| Horse, War | 200sp |
+| Animal | Cost | | Animal | Cost |
+| ------ | ---- | - | ------ | ---- |
+| Chicken | 1sp | | Mule | 20sp |
+| Cow | 10sp | | Ox | 15sp |
+| Dog | 15sp | | Pidgeon | 1sp |
+| Donkey | 8sp | | Piglet | 1sp |
+| Goat | 3sp | | Pig | 3sp |
+| Hawk | 20sp | | Pony | 15sp |
+| Horse, Draught | 30sp | | Sheep | 2sp |
+| Horse, War | 200sp | | Songbird | 25sp |
 | Horse, Riding | 25sp |
-| Mule | 20sp |
-| Ox | 15sp |
-| Pidgeon | 1sp |
-| Piglet | 1sp |
-| Pig | 3sp |
-| Pony | 15sp | 
-| Sheep | 2sp |
-| Songbird | 25sp |
+
 
 ## Core Resolution Mechanics
 ### Saves
-When a character is attempting to do something that cannot be resolved through discussion and failure has meaningful consequences, the humble check is employed. A character rolls a number of d6 equal to their most relevant Attribute and attempts to roll a six (success) on at least one die. The number of successes required can be increased by the DM depending on the difficulty of the situation. Characters may also add to their dice total through various advantages available to them, including appropriate knowledge, good planning, helpful equipment etc.
+When a character is attempting to do something that cannot be resolved through discussion and failure has meaningful consequences, the humble save is employed. A character rolls a number of d6 equal to their most relevant Attribute and attempts to roll a six (success) on at least one die. The number of successes required can be increased by the DM if the situation is especially difficult. Characters may also add to their dice total through various advantages available to them, including appropriate knowledge, good planning, helpful equipment etc.
