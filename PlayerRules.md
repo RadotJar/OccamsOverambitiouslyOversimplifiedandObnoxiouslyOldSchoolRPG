@@ -80,32 +80,32 @@ Armour is layered to provide cumulative benefit. Wearing light armour such as a 
 \* - Shields can be used alongside other armour to increase AC by 1 but must be in a Quick slot to be effective. They can also be sundered to negate all damage.
 
 ### Adventuring Supplies
-| Item | Cost | Slots | | Item | Cost | Slots |
-| ---- | ---- | ----- | - | ---- | ---- | ----- |
-| Bandages (3) | 6sp | 1/2 | | Mirror, Small Metal | 5sp | 1/2 |
-| Bedroll | 2sp | 1 | | Mirror, Small Silver | 20sp | 1/2 |
-| Bottle | 5sp | 1 | | Net | 10sp | 1 |
-| Box, Large Iron | 30sp | 2 | | Oil, Pint, Flask (3) | 15sp | 1/2 |
-| Box, Small Iron | 15sp | 1 | | Pole, 10' | 5sp | 2 |
-| Candle, Tallow (3) | 3sp | 1/2 | | Ration, Dry Day (3) | 15sp | 1 | 
-| Candle, Wax (3) | 6sp | 1/2 | | Ration, Trail Day (3) | 6sp | 1 |
-| Cart | 50sp | - | | Rope, 50' Silken | 70sp | 1 |
-| Case, Map | 5sp | 1 | | Rope, 50' Hemp | 5sp | 1 |
-| Checkers | 5sp | 1 | | Sack | 1sp | 1 |
-| Chest, Large Wooden | 15sp | 2 | | Shovel | 5sp | 1 |
-| Chest, Small Wooden | 8sp | 1 | | Shovel, Wooden | 5sp | 1 |
-| Compass | 100sp | 1/2 | | Water or Wineskin | 15sp | 1 |
-| Crowbar | 5sp | 1 | | Skiing Equipment | 15sp | 2 |
-| Dice | 2sp | 1/2 | | Sled | 20sp | 2 |
-| Flint & Steel | 5sp | 1/2 | | Snare | 1sp | 1/2 |
-| Grappling Hook | 10sp | 1 | | Iron Spikes (3) | 9sp | 1 |
-| Hammer & Wooden Stakes | 5sp | 1 | | Tent | 15sp | 2 |
-| Laboratory (portable) | 150sp | 2 | | Tinderbox | 10sp | 1/2 |
-| Lantern, Bullseye | 12sp | 1 | | Torches (3) | 1sp | 1 |
-| Lantern, Hooded | 7sp | 1 | | Wagon | 150sp | - |
-| Lockpicks (3) | 25sp | 1/2 |
-| Map, Local | 20sp | 1 |
-| Mirror, Large Metal | 10sp | 1 |
+| Item | Cost |  | Item | Cost |
+| ---- | ---- | - | ---- | ---- |
+| Bandages (3) | 6sp | | Mirror, Small Metal | 5sp | 
+| Bedroll | 2sp | | Mirror, Small Silver | 20sp | 
+| Bottle | 5sp | | Net | 10sp |
+| Box, Large Iron | 30sp | | Oil, Pint, Flask (3) | 15sp |
+| Box, Small Iron | 15sp | | Pole, 10' | 5sp |
+| Candle, Tallow (3) | 3sp | | Ration, Dry Day (3) | 15sp | 
+| Candle, Wax (3) | 6sp | | Ration, Trail Day (3) | 6sp |
+| Cart | 50sp | | Rope, 50' Silken | 70sp |
+| Case, Map | 5sp | | Rope, 50' Hemp | 5sp |
+| Checkers | 5sp | | Sack | 1sp |
+| Chest, Large Wooden | 15sp | | Shovel | 5sp |
+| Chest, Small Wooden | 8sp | | Shovel, Wooden | 5sp |
+| Compass | 100sp | | Water or Wineskin | 15sp |
+| Crowbar | 5sp | | Skiing Equipment | 15sp |
+| Dice | 2sp | | Sled | 20sp |
+| Flint & Steel | 5sp | | Snare | 1sp | 
+| Grappling Hook | 10sp | | Iron Spikes (3) | 9sp |
+| Hammer & Wooden Stakes | 5sp | | Tent | 15sp |
+| Laboratory (portable) | 150sp | | Tinderbox | 10sp |
+| Lantern, Bullseye | 12sp | | Torches (3) | 1sp |
+| Lantern, Hooded | 7sp | | Wagon | 150sp |
+| Lockpicks (3) | 25sp |
+| Map, Local | 20sp |
+| Mirror, Large Metal | 10sp |
 
 
 ### Livestock
