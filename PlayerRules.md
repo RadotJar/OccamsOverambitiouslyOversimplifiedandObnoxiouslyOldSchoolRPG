@@ -125,3 +125,44 @@ Armour is layered to provide cumulative benefit. Wearing light armour such as a 
 ## Core Resolution Mechanics
 ### Saves
 When a character is attempting to do something that cannot be resolved through discussion and failure has meaningful consequences, the humble save is employed. A character rolls a number of d6 equal to their most relevant Attribute and attempts to roll a six (success) on at least one die. The number of successes required can be increased by the DM if the situation is especially difficult. Characters may also add to their dice total through various advantages available to them, including appropriate knowledge, good planning, helpful equipment etc.
+
+## Combat
+On a side's turn, each character may move and perform one action. If it is unclear which side goes first, each character must make a Dexterity save to act before the enemy.
+
+### Attacks
+An attacker rolls the damage die of their weapon and deals that much damage to the defender's HP. Armour is subtracted from this damage. If an attack is impaired in any way, d4 is rolled for damage. If an attack has any significant advantage, d12 is rolled.
+
+### Scars
+If a character's HP is reduced to exactly 0, they suffer a scar. Look up the damage taken on the scars table below.
+
+| Damage | Scar |
+| ------ | ---- |
+| 1 | **Battlescar -** A part of you is violently marked. <br /> Roll 1d6: **1** Eye, **2** Cheek, **3** Neck, **4** Chest, **5** Stomach, **6** Hands. <br />Reroll your Maximum HP on a d6 and keep the result if higher. |
+| 2 | **Shaken Nerves -** You stammer and shake. <br /> After you take something to calm your nerves, reroll your maximum HP on a d6 and keep the result if higher. |
+| 3 | **Hobbled -** Reduced to a limp until fixed. |
+| 4 | **Smashed Mouth -** You spit teeth and blood. You look a mess until you see someone who can fix you up. |
+| 5 | **Bloody Mess -** You need stitches. Take an injury until it's done by a healer. <br /> Reroll your Maximum HP on 2d6 and keep the result if higher. |
+| 6 | **Punctured Organ -** A vital organ is in a critical state. If you are Critically Wounded before seeing a healer you die. <br /> If you get it seen to, reroll your Maximum HP on 2d6 and keep the result if higher. |
+| 7 | **Maimed -** A part of you is torn off. <br /> Roll 1d6: **1** Nose, **2** Ear, **3** Finger, **4** Thumb, **5** Eye, **6** Chunk of scalp. |
+| 8 | **Torn Limb -** A random limb is torn off or in need of amputation. |
+| 9 | **Splintered Mind -** Take an injury until you spend a whole evening emotionally unloading. |
+| 10 | **Shattered Ego -** You are dealt a humiliating blow. <br />If you achieve revenge, reroll your Maximum HP on 3d6 and keep the result if higher. |
+| 11 | **Fractured Skull -** You feel like a slightly different person. Reroll your Willpower on a d6. |
+| 12 | **Doomed to Die -** You shouldn't have survived that. You have nightmares of your own death. <br />If you fail your next save against becoming Critically Wounded, you die horribly. If you pass, remove this effect and reroll your Maximum HP on 3d6 and keep the result if higher. |  
+
+
+### Injury & Breakage
+If the defender's HP is reduced to less than 0, the overflow damage fills inventory slots at a rate of 1 slot per damage. Each slot of injury should receive an appropriate damage name: 'Bludgeoned', 'Burnt' etc. Items in slots that are replaced by injuries are dropped. If the item is succeptible to the type of damage received in its slot, it is broken instead.
+
+*Example: A character is bludgenoned with a mace and opts to put the injury in a slot that was holding a glass jar. The jar is shattered by the blow.*
+
+Characters suffering at least 1 injury must also make a save using an appropriate attribute or become Critically Wounded.
+
+Characters can suffer conditions such as Hunger, Thirst, Sleeplessness, Poisoning etc. These are treated as injuries.
+### Critically Wounded
+A character who is Critically Wounded is unable to do anything but crawl around. They will die of their injuries if left unattended for an hour.
+
+### Healing
+Characters can recover their HP after a drink and a few minutes rest. A character with at least 1 injury cannot recover HP in this way.
+
+Injuries must be removed as appropriate to their cause. For some, bed rest in a safe haven may be the only cure.
