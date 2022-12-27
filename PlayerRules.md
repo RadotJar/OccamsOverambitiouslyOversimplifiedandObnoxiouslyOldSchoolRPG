@@ -130,7 +130,7 @@ When a character is attempting to do something that cannot be resolved through d
 On a side's turn, each character may move and perform one action. If it is unclear which side goes first, each character must make a Dexterity save to act before the enemy.
 
 ### Attacks
-An attacker rolls the damage die of their weapon and deals that much damage to the defender's HP. Armour is subtracted from this damage. If an attack is impaired in any way, d4 is rolled for damage. If an attack has any significant advantage, d12 is rolled.
+An attacker rolls the damage die of their weapon and deals that much damage to the defender's HP. Armour is subtracted from this damage. If an attack is at any meaningful disadvantage, d4 is rolled for damage. If an attack has any meaningful advantage, d12 is rolled.
 
 ### Scars
 If a character's HP is reduced to exactly 0, they suffer a scar. Look up the damage taken on the scars table below.
@@ -159,10 +159,24 @@ If the defender's HP is reduced to less than 0, the overflow damage fills invent
 Characters suffering at least 1 injury must also make a save using an appropriate attribute or become Critically Wounded.
 
 Characters can suffer conditions such as Hunger, Thirst, Sleeplessness, Poisoning etc. These are treated as injuries.
+
+Characters die when all of their slots are filled by injuries
+
+#### Example Injuries
+**Bruised -** Unsightly and sore to the touch. **Removal:** Have a good night's rest.
+
+**Bleeding -** Your body's life essence seeps from its mortal shell. **Removal:** A well tied bandage or tournaquet and some time spent resting commensurate with the wound.
+
+**Panicked -** You are sure that you will either shit bricks or piss icicles at any moment. **Removal:** Find a quiet spot or strong substance and settle yourself down.
+
+**Hungry -** *Grr..r..r.* **Removal:** Eat something.
 ### Critically Wounded
-A character who is Critically Wounded is unable to do anything but crawl around. They will die of their injuries if left unattended for an hour.
+A character who is Critically Wounded is unable to do anything but crawl around and groan. They will die of their injuries if left unattended for an hour.
 
 ### Healing
-Characters can recover their HP after a drink and a few minutes rest. A character with at least 1 injury cannot recover HP in this way.
+Characters can recover all of their HP after a drink and a few minutes rest. A character with at least one injury cannot recover HP in this way.
 
-Injuries must be removed as appropriate to their cause. For some, bed rest in a safe haven may be the only cure.
+Injuries must have their removal conditions met to be removed.
+
+
+
