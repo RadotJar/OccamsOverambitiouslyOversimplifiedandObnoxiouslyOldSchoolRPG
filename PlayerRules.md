@@ -29,7 +29,7 @@ Characters begin play with:
 * Sharing a small raiding vessel (_Karvi_) with their fellow characters and twelve rowers - fellow ex-thralls who look to you for leadership. There is enough food and water for all hands to survive for four days. You have travelled two days from the home of your ex-captors.
 
 ## Equipment
-Characters have with two quick slots and six pack slots, modified by attribute benefits. Quick slots are easily accesible whereas backpack slots require some degree of rummaging. Most items take up one slot. **Bulky** items take up two slots. Items small enough to fit in a closed hand don't take any slots.
+Characters start with two quick slots and six pack slots, modified by attribute benefits. Quick slots are easily accesible whereas backpack slots require some degree of rummaging. Most items take up one slot. **Bulky** items take up two slots. Items small enough to fit in a closed hand don't take any slots.
 
 For those seeking to fulfill a classical role or "class", a number of equipment packs are provided.
 
@@ -64,7 +64,7 @@ Advantage - Roll 1d12 for damage regardless of weapon.
 
 Riposte - If hit by <4 damage, you may make a free attack against the attacker.
 
-_These special abilties are just examples of what a weapon might do. You are encouraged to discuss with your DM if you have other ideas in a given combat situation._
+_These special abilties are just examples of what a weapon might do. You are encouraged to propose further ideas to your DM._
 ### Armour
 Armour provides or increases a character's armour class (AC). When facing damage, a character's AC is subtracted from that damage. A character can not have greater than 3 AC.
 
@@ -75,9 +75,9 @@ Armour is layered to provide cumulative benefit. Wearing light armour such as a 
 | Brigandine | 15sp | 2 | 1 |
 | + Chainmail | 100sp | 2+2=4  | 2 |
 | ++ Plate | 250sp | 2+2+2=6 | 3 |
-| Shield* | 15sp | 1 Hand | +1 |
+| Shield* | 15sp | 1 Quick | +1 |
 
-\* - Shields can be used alongside other armour to increase AC by 1 but must be in a Quick slot to be effective. They can also be sundered to negate all damage.
+\* - Shields can be used alongside other armour to increase AC by 1 but must be in a Quick slot. They can also be sundered at the defender's option to negate all damage from a single source.
 
 ### Adventuring Supplies
 | Item | Cost |  | Item | Cost |
@@ -127,7 +127,7 @@ Armour is layered to provide cumulative benefit. Wearing light armour such as a 
 When a character is attempting to do something that cannot be resolved through discussion and failure has meaningful consequences, the humble save is employed. A character rolls a number of d6 equal to their most relevant Attribute and attempts to roll a six (success) on at least one die. The number of successes required can be increased by the DM if the situation is especially difficult. Characters may also add to their dice total through various advantages available to them, including appropriate knowledge, good planning, helpful equipment etc.
 
 ## Combat
-On a side's turn, each character may move and perform one action. If it is unclear which side goes first, each character must make a Dexterity save to act before the enemy.
+On a side's turn, each character may move and perform one action. If it is unclear which side goes first, each player character must make a Dexterity save to act before the enemy.
 
 ### Attacks
 An attacker rolls the damage die of their weapon and deals that much damage to the defender's HP. Armour is subtracted from this damage. If an attack is at any meaningful disadvantage, d4 is rolled for damage. If an attack has any meaningful advantage, d12 is rolled.
@@ -165,7 +165,7 @@ Characters die when all of their slots are filled by injuries
 #### Example Injuries
 **Bruised -** Unsightly and sore to the touch. **Removal:** Have a good night's rest.
 
-**Bleeding -** Your body's life essence seeps from its mortal shell. **Removal:** A well tied bandage or tournaquet and some time spent resting commensurate with the wound.
+**Bleeding -** Your body's life essence seeps from its mortal shell. **Removal:** A well tied bandage or tournaquet and time spent resting commensurate with severity the wound.
 
 **Panicked -** You are sure that you will either shit bricks or piss icicles at any moment. **Removal:** Find a quiet spot or strong substance and settle yourself down.
 
