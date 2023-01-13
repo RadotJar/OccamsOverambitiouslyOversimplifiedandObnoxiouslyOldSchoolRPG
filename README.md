@@ -6,7 +6,7 @@ Developing a homebrew rules system for tabletop roleplay gaming, keeping it LIGH
 - [x]   Characters
 - [x]   Core Resolution
 - [x]   Equipment
-- [  ]  Combat
+- [x]  Combat
 - [  ]  Travel
 ### Dungeon Master Rules
 - [  ] Weather
