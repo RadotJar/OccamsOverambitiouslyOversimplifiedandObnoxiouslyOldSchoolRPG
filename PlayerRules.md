@@ -39,17 +39,17 @@ Light weapons deal d6 damage and can be concealed easily. Medium weapons deal 1d
 
 | Weapon | Cost | Weight | Special |
 | ------ | ---- | ------ | ------- |
-| Battle-axe | 10sp | Medium | Forgo a damage roll to attempt a weapon/shield strip. |
+| Battle-axe | 10sp | Medium | After an attack, roll damage again. If the damage is equal or less than the original attack, attacker may perform a weapon/shield strip. |
 | Club | 5sp | Light | Forgo a damage roll to attempt a stun. The target misses their turn and all attacks against them have advantage this round. |
-| Dagger | 5sp | Light | Throwable, ignores armour in grapple situations. |
+| Dagger | 5sp | Light | Throwable, ignores armour in grapple situations and when the target is prone |
 | Flail | 8sp | Medium | Ignores shields. |
-| Greatsword* | 40sp | Heavy | Upon a killing blow, the wielder may attack another target. This can be chained. |
+| Greatsword* | 40sp | Heavy | Upon a killing blow, the wielder may attack again. This can be chained. |
 | Hand-Axe | 6sp | Light | Throwable. If 4+ damage is dealt, the hand-axe bounces to another target, roll damage again. |
 | Javelin | 5sp | Medium | Throwable. |
 | Longbow* | 30sp | Medium | A round spent aiming grants advantage on the next attack. |
 | Longsword | 12sp | Medium | Riposte once per round. |
-| Mace | 8sp | Medium | Ignores 1 point of armour. |
-| Poleaxe* | 20sp | Heavy |Can use the special of a battle-axe or spear but takes one turn to switch stance. |
+| Mace | 8sp | Medium | If 4+ damage is dealt, the target loses 1 point of armour permanently. |
+| Poleaxe* | 20sp | Heavy | Can use the special of a battle-axe or spear but swapping stance takes one turn in which you have disadvantage on all attacks. |
 | Quarterstaff | 5sp | Light | Gives +1 to any combat maneuvers. |
 | Shortbow* | 15sp | Medium | Can fire while moving. |
 | Shortsword | 8sp | Light | Riposte twice per round. |
