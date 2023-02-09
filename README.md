@@ -1,4 +1,4 @@
-# Occam's Empire Of Dirt
+# Occam's Overambitiously Oversimplified and Obnoxiously Old School Role Playing Game
 Developing a homebrew rules system for tabletop roleplay gaming, keeping it LIGHT AND TITE.
 
 ## Current Modules
