@@ -3,10 +3,16 @@ Developing a homebrew rules system for tabletop roleplay gaming, keeping it LIGH
 
 ## Current Modules
 ### Player Rules
-- [x]   Characters
-- [x]   Core Resolution
-- [x]   Equipment
-- [x]  Combat
-- [  ]  Travel
+- [x] Characters
+- [x] Core Resolution
+- [x] Equipment
+- [x] Combat
+- [] Companions and Hirelings
 ### Dungeon Master Rules
-- [  ] Weather
+- [] Monsters
+- [x] Reaction
+- [x] Morale
+- [x] Surprise
+- [x] Travel
+- [x] Weather
+- [x] Dungeons
