@@ -1,8 +1,8 @@
-# Player Rules 0.6.0
+# Player Rules 1.0.0
 ## Design Goals
 * Equipment based (no classes or skills)
-* Light (few rules, easy to learn)
-* Tight (mechanics are tightly coupled)
+* lite (few rules, easy to learn)
+* tite (mechanics are titely coupled)
 * Minimal DM overhead
 * Interesting player choice at all stages
 
@@ -40,142 +40,30 @@ Each player gets a set of dice to roll on the starting gear tables: 1d16, 1d14, 
 
 Your starting gear will give you some idea of who your character is, discuss with the table.
 
-|    | Weapons |
-| -- | ------------- |
-| 1  | Small pouch containing a child's prized stone collection |
-| 2  | Rusty bronze sickle, blood caked on |
-| 3  | Half a quarterstaff, the broken end shod in gold |
-| 4  | A "knife belt", adapted to hold three hand-axes. Two have names carved into their haft: 'Aldwyn' and 'Elwyd' |
-| 5  | Axe too large to be wielded normally by a man, haft as thick as a ship's mast |
-| 6  | Curved javelin. Turns sharply to the left when thrown |
-| 7  | Shortsword fashioned in the shape of a religious symbol |
-| 8  | Oppressive black mace. Grisly in its ornamentation |
-| 9  | A wooden mallet taller than a man, seemingly hewn from a single log. Charms hang from its head on ropes of varying length |
-| 10 | Poleaxe with a square shaft. The head resembles a grotesque humanoid face: pointed chin, dented skull and snarling maw  |
-| 11 | Two thick daggers, connected by chain and perfectly balanced |
-| 12 | Half a spear. Ball of lumpy wrought iron attached to the blunt end as a flail |
-| 13 | Masterwork Longsword embossed with the crest of a noble house |
-| 14 | Shortbow with quiver made of the horn of a great beast. Within, the tip of the horn secretes a sweet-smelling fluid |
-| 15 | Serrated greatsword, unknown hairs cling to the teeth |
-| 16 | Longbow forged of malleable metal. Devastating draw weight, sharpened limbs  |
-
-|    | Armour |
-| -- | ------------- |
-| 1  | Ill-fitting Pot-helm |
-| 2  | Trusty pan, covered in furs and repurposes as a buckler |
-| 3  | Tattered hide tunic with a fur hat made from the same animal's head |
-| 4  | Mail Coif with ragged holes at the temples |
-| 5  | Multiple layers of rags tied lovingly into a padded gambeson. A handwritten tag says 'be safe'  |
-| 6  | Round shield carved amateurishly with symbols representing an autobiography. One symbol is half-finished |
-| 7  | Splattered brigandine and red-stained vambraces. A veteran's garb |
-| 8  | Loose mail shirt belted tightly over a white gambeson. Looks ridiculous |
-| 9  | A Brigandine, Kettle Helmet and Kite Shield. All culturally distinct |
-| 10 | Full mail over Emblazoned Tunic. The heraldry is recognisable as a local person of import |
-| 11 | Gambeson, Plate Pauldrons, Vambraces and Bascinet, all heavily scorched |
-| 12 | Scale Mail over Brigandine. Each scale is engraved with a name |
-| 13 | Tower shield taller than a man and bristling with the teeth of strange beasts. A visored sallet, resembling a dragon's maw. A sturdy leather tunic, not made of cow |
-| 14 | Partial plate over mail and brigandine. The plate and mail are designed for quick removal. The entire suit can be left standing on its own with a quick dash. Back is exposed to allow exit. |
-| 15 | Full plate over mail and padded undergarment. The plate is decorated with the crest of a noble house. The mail is decorated in the fashion of a faraway place |
-| 16 | Adorned Full Plate, Gold Trimmed Mail, Ornate Brigandine, Mastercraft Full Helm, Shield of the House |
-
-|    | Heirlooms |
-| -- | --------- |
-| 1  | Fetal alcohol syndrome |
-| 2  | Blood of the Defiler |
-| 3  | The tale of your people, in every language known to man |
-| 4  | Locket containing a secret. Promised never to open |
-| 5  | Old brass key for an unknown lock |
-| 6  | Baby sibling with a destiny greater than your own |
-| 7  | Pet (Roll for it) |
-| 8  | Pendulum. It always points slightly towards kin, no matter the distance |
-| 9 | Griffon Egg |
-| 10 | Ancient family name that is known as one to trust |
-| 11 | Map to a buried treasure, ease of access not guaranteed |
-| 12 | Scrap of vellum, incompletely detailing a spell's ritual |
-| 13 | Small-holding |
-| 14 | Everything needed for the working of a spell |
-| 15 | Throne |
-| 16 | Otherworldy blood. You will never wish for the attention of those who sense it, good or bad |
-
-
-|    | Gear |
-| -- | ---- |
-| 1  | Bottle of urine, it is not human |
-| 2  | Small bone flute, suspiciously resembling a finger |
-| 3  | Smelly shovel and a bar of soap |
-| 4  | Identical sets of loaded and unloaded dice |
-| 5  | Satchel of small, sharp objects |
-| 6  | Butcher's cleaver and a laying hen |
-| 7  | Manacles and a padlock, no keys to either |
-| 8  | Large, durable spring. Fits snugly into a fabric bag when compressed |
-| 9  | Pair of fine animal skin gloves, covered in a slippery black substance |
-| 10  | Silver candelabra with maker's mark, candles included |
-| 11 | Hammer, nails, a saw and a carpenter's square |
-| 12  | Climbing gear, significant repairs being evidence of many a fatal climb...  |
-| 13 | Enough trail rations to feed your party for a week |
-| 14 | Thieving tools, unearthed from a remorseful resting place |
-| 15 | 10-foot pole, perfectly balanced by iron-shod ends |
-| 16 | Canvas tent, homespun hammock and a small cooking pot |
-
-
-|    | Wealth |
-| -- | ------ |
-| 1  | Contents of your belly button |
-| 2  | Worn pouch of rusty nails |
-| 3  | Three coins, each different, each stolen |
-| 4  | Cold lump of iron as big as a man's head |
-| 5  | A whole chicken, actually |
-| 6  | Granary full of golden grains, not on you...obviously |
-| 7  | Small wooden box, half full of salt |
-| 8  | Sack of coins of foreign make |
-| 9  | Lame old mule |
-| 10 | Five barrels of fine wine |
-| 11 | 13 Fat Pigs |
-| 12 | Indentured Servant |
-| 13 | Considerable library in a transportable case |
-| 14 | Warhorse, fully furnished |
-| 15 | Two comically large religious symbols ( 1 for each hand ) |
-| 16 | Continent spanning smuggling ring |
-
-|    | Traits |
-| -- | ------ |
-| 1  | Blind |
-| 2  | Stuttering |
-| 3  | Missing Limb - 1d4: **1** Left Leg, **2** Right Leg, **3** Left Arm, **4** Right Arm |
-| 4  | Wanted (Really Badly) |
-| 5  | Belch loudly on command |
-| 6  | Goat-like Features |
-| 7  | Hear a constant hum, the volume increases the more you drink |
-| 8  | Glowing Eyes |
-| 9  | Voice of an angel |
-| 10 | Cannot sleep, need not sleep |
-| 11 | Slightly Magnetic |
-| 12 | 'Hey wait...you look like a cousin of mine'|
-| 13 | Silent steps |
-| 14 | Body of an Ox (Increase Strength to 6) |
-| 15 | Immune to Poisoning and Disease |
-| 16 | A metallic taste on the tip of your tongue when ancient powers or magic is nearby |
+The tables can be found at the end of these rules.
 
 ### Weapons
-Light weapons deal d6 damage and can be concealed easily. Medium weapons deal 1d8 damage. Heavy weapons deal d10 damage and are **Bulky.**
+lite weapons deal d6 damage and can be concealed easily. Medium weapons deal 1d8 damage. Heavy weapons deal d10 damage and are **Bulky.**
+
+Weapons table can be found at end of these rules.
 
 | Weapon | Cost | Weight | Special |
 | ------ | ---- | ------ | ------- |
 | Battle-axe | 10sp | Medium | After an attack, roll damage again. If the damage is equal or less than the original attack, attacker may perform a weapon/shield strip. |
-| Club | 5sp | Light | Forgo a damage roll to attempt a stun. The target misses their turn and all attacks against them have advantage this round. |
-| Dagger | 5sp | Light | Throwable, ignores armour in grapple situations and when the target is prone |
+| Club | 5sp | lite | Forgo a damage roll to attempt a stun. The target misses their turn and all attacks against them have advantage this round. |
+| Dagger | 5sp | lite | Throwable, ignores armour in grapple situations and when the target is prone |
 | Flail | 8sp | Medium | Ignores shields. |
 | Greatsword* | 40sp | Heavy | Upon a killing blow, the wielder may attack again. This can be chained. |
-| Hand-Axe | 6sp | Light | Throwable. If 4+ damage is dealt, the hand-axe bounces to another target, roll damage again. |
+| Hand-Axe | 6sp | lite | Throwable. If 4+ damage is dealt, the hand-axe bounces to another target, roll damage again. |
 | Javelin | 5sp | Medium | Throwable. |
 | Longbow* | 30sp | Medium | A round spent aiming grants advantage on the next attack. |
 | Longsword | 12sp | Medium | Riposte once per round. |
 | Mace | 8sp | Medium | If 4+ damage is dealt, the target loses 1 point of armour permanently. |
 | Poleaxe* | 20sp | Heavy | Can use the special of a battle-axe or spear but swapping stance takes one turn in which you have disadvantage on all attacks. |
-| Quarterstaff | 5sp | Light | Gives +1 to any combat maneuvers. |
+| Quarterstaff | 5sp | lite | Gives +1 to any combat maneuvers. |
 | Shortbow* | 15sp | Medium | Can fire while moving. |
-| Shortsword | 8sp | Light | Riposte twice per round. |
-| Sling | 1sp | Light | Can be thrown as a bolas to ensnare a target or used as a strangulation device in close quarters. |
+| Shortsword | 8sp | lite | Riposte twice per round. |
+| Sling | 1sp | lite | Can be thrown as a bolas to ensnare a target or used as a strangulation device in close quarters. |
 | Spear* | 15sp | Heavy | Opponents must make a save to move within range of you. On failure, you get a free attack and they halt their advance. |
 | Two-Handed Axe* | 25sp | Heavy | If max damage is rolled, roll another die and add it to the damage. This can be chained. |
 | Warhammer* | 25sp | Heavy | Target must make a save or be thrown back and sent prone. |
@@ -191,7 +79,7 @@ _These special abilties are just examples of what a weapon might do. You are enc
 ### Armour
 Armour provides or increases a character's armour class (AC). When facing damage, a character's AC is subtracted from that damage. A character can not have greater than 3 AC.
 
-Armour is layered to provide cumulative benefit. Wearing light armour such as a Brigandine and Coif takes two slots, giving 1 AC. Wearing medium armour over the top, such as a chainmail hauberk, takes another two slots and increases AC to 2. Wearing heavy armour over the top of this, such as plate, takes another two slots and increases AC to 3.
+Armour is layered to provide cumulative benefit. Wearing lite armour such as a Brigandine and Coif takes two slots, giving 1 AC. Wearing medium armour over the top, such as a chainmail hauberk, takes another two slots and increases AC to 2. Wearing heavy armour over the top of this, such as plate, takes another two slots and increases AC to 3.
 
 | Armour | Cost | Slots | AC |
 | ------ | ---- | ------ | -- |
@@ -271,7 +159,7 @@ If a character's HP is reduced to exactly 0, they suffer a scar. Look up the dam
 | 8 | **Torn Limb -** A random limb is torn off or in need of amputation. |
 | 9 | **Splintered Mind -** Take an injury until you spend a whole evening emotionally unloading. |
 | 10 | **Shattered Ego -** You are dealt a humiliating blow. <br />If you achieve revenge, reroll your Maximum HP on 3d6 and keep the result if higher. |
-| 11 | **Fractured Skull -** You feel like a slightly different person. Reroll your Willpower on a d6. |
+| 11 | **Fractured Skull -** You feel like a slitely different person. Reroll your Willpower on a d6. |
 | 12 | **Doomed to Die -** You shouldn't have survived that. You have nightmares of your own death. <br />If you fail your next save against becoming Critically Wounded, you die horribly. If you pass, remove this effect and reroll your Maximum HP on 3d6 and keep the result if higher. |  
 
 
@@ -304,5 +192,129 @@ Characters can recover all of their HP after a drink and a few minutes rest. A c
 
 Injuries must have their removal conditions met to be removed.
 
+<div style="page-break-after: always"></div>
 
+|    | Weapons |
+| -- | ------------- |
+| 1  | Small pouch containing a child's prized stone collection |
+| 2  | Rusty bronze sickle, blood caked on |
+| 3  | Half a quarterstaff, the broken end shod in gold |
+| 4  | A "knife belt", adapted to hold three hand-axes. Two have names carved into their haft: 'Aldwyn' and 'Elwyd' |
+| 5  | Axe too large to be wielded normally by a man, haft as thick as a ship's mast |
+| 6  | Curved javelin. Turns sharply to the left when thrown |
+| 7  | Shortsword fashioned in the shape of a religious symbol |
+| 8  | Oppressive black mace. Grisly in its ornamentation |
+| 9  | A wooden mallet taller than a man, seemingly hewn from a single log. Charms hang from its head on ropes of varying length |
+| 10 | Poleaxe with a square shaft. The head resembles a grotesque humanoid face: pointed chin, dented skull and snarling maw  |
+| 11 | Two thick daggers, connected by chain and perfectly balanced |
+| 12 | Half a spear. Ball of lumpy wrought iron attached to the blunt end as a flail |
+| 13 | Masterwork Longsword embossed with the crest of a noble house |
+| 14 | Shortbow with quiver made of the horn of a great beast. Within, the tip of the horn secretes a sweet-smelling fluid |
+| 15 | Serrated greatsword, unknown hairs cling to the teeth |
+| 16 | Longbow forged of malleable metal. Devastating draw weight, sharpened limbs  |
+
+<div style="page-break-after: always"></div>
+
+|    | Armour |
+| -- | ------------- |
+| 1  | Ill-fitting Pot-helm |
+| 2  | Trusty pan, covered in furs and repurposes as a buckler |
+| 3  | Tattered hide tunic with a fur hat made from the same animal's head |
+| 4  | Mail Coif with ragged holes at the temples |
+| 5  | Multiple layers of rags tied lovingly into a padded gambeson. A handwritten tag says 'be safe'  |
+| 6  | Round shield carved amateurishly with symbols representing an autobiography. One symbol is half-finished |
+| 7  | Splattered brigandine and red-stained vambraces. A veteran's garb |
+| 8  | Loose mail shirt belted titely over a white gambeson. Looks ridiculous |
+| 9  | A Brigandine, Kettle Helmet and Kite Shield. All culturally distinct |
+| 10 | Full mail over Emblazoned Tunic. The heraldry is recognisable as a local person of import |
+| 11 | Gambeson, Plate Pauldrons, Vambraces and Bascinet, all heavily scorched |
+| 12 | Scale Mail over Brigandine. Each scale is engraved with a name |
+| 13 | Tower shield taller than a man and bristling with the teeth of strange beasts. A visored sallet, resembling a dragon's maw. A sturdy leather tunic, not made of cow |
+| 14 | Partial plate over mail and brigandine. The plate and mail are designed for quick removal. The entire suit can be left standing on its own with a quick dash. Back is exposed to allow exit. |
+| 15 | Full plate over mail and padded undergarment. The plate is decorated with the crest of a noble house. The mail is decorated in the fashion of a faraway place |
+| 16 | Adorned Full Plate, Gold Trimmed Mail, Ornate Brigandine, Mastercraft Full Helm, Shield of the House |
+
+<div style="page-break-after: always"></div>
+
+|    | Heirlooms |
+| -- | --------- |
+| 1  | Fetal alcohol syndrome |
+| 2  | Blood of the Defiler |
+| 3  | The tale of your people, in every language known to man |
+| 4  | Locket containing a secret. Promised never to open |
+| 5  | Old brass key for an unknown lock |
+| 6  | Baby sibling with a destiny greater than your own |
+| 7  | Pet (Roll for it) |
+| 8  | Pendulum. It always points slitely towards kin, no matter the distance |
+| 9 | Griffon Egg |
+| 10 | Ancient family name that is known as one to trust |
+| 11 | Map to a buried treasure, ease of access not guaranteed |
+| 12 | Scrap of vellum, incompletely detailing a spell's ritual |
+| 13 | Small-holding |
+| 14 | Everything needed for the working of a spell |
+| 15 | Throne |
+| 16 | Otherworldy blood. You will never wish for the attention of those who sense it, good or bad |
+
+<div style="page-break-after: always"></div>
+
+|    | Gear |
+| -- | ---- |
+| 1  | Bottle of urine, it is not human |
+| 2  | Small bone flute, suspiciously resembling a finger |
+| 3  | Smelly shovel and a bar of soap |
+| 4  | Identical sets of loaded and unloaded dice |
+| 5  | Satchel of small, sharp objects |
+| 6  | Butcher's cleaver and a laying hen |
+| 7  | Manacles and a padlock, no keys to either |
+| 8  | Large, durable spring. Fits snugly into a fabric bag when compressed |
+| 9  | Pair of fine animal skin gloves, covered in a slippery black substance |
+| 10  | Silver candelabra with maker's mark, candles included |
+| 11 | Hammer, nails, a saw and a carpenter's square |
+| 12  | Climbing gear, significant repairs being evidence of many a fatal climb...  |
+| 13 | Enough trail rations to feed your party for a week |
+| 14 | Thieving tools, unearthed from a remorseful resting place |
+| 15 | 10-foot pole, perfectly balanced by iron-shod ends |
+| 16 | Canvas tent, homespun hammock and a small cooking pot |
+
+<div style="page-break-after: always"></div>
+
+|    | Wealth |
+| -- | ------ |
+| 1  | Contents of your belly button |
+| 2  | Worn pouch of rusty nails |
+| 3  | Three coins, each different, each stolen |
+| 4  | Cold lump of iron as big as a man's head |
+| 5  | A whole chicken, actually |
+| 6  | Granary full of golden grains, not on you...obviously |
+| 7  | Small wooden box, half full of salt |
+| 8  | Sack of coins of foreign make |
+| 9  | Lame old mule |
+| 10 | Five barrels of fine wine |
+| 11 | 13 Fat Pigs |
+| 12 | Indentured Servant |
+| 13 | Considerable library in a transportable case |
+| 14 | Warhorse, fully furnished |
+| 15 | Two comically large religious symbols ( 1 for each hand ) |
+| 16 | Continent spanning smuggling ring |
+
+<div style="page-break-after: always"></div>
+
+|    | Traits |
+| -- | ------ |
+| 1  | Blind |
+| 2  | Stuttering |
+| 3  | Missing Limb - 1d4: **1** Left Leg, **2** Right Leg, **3** Left Arm, **4** Right Arm |
+| 4  | Wanted (Really Badly) |
+| 5  | Belch loudly on command |
+| 6  | Goat-like Features |
+| 7  | Hear a constant hum, the volume increases the more you drink |
+| 8  | Glowing Eyes |
+| 9  | Voice of an angel |
+| 10 | Cannot sleep, need not sleep |
+| 11 | Slitely Magnetic |
+| 12 | 'Hey wait...you look like a cousin of mine'|
+| 13 | Silent steps |
+| 14 | Body of an Ox (Increase Strength to 6) |
+| 15 | Immune to Poisoning and Disease |
+| 16 | A metallic taste on the tip of your tongue when ancient powers or magic is nearby |
 
