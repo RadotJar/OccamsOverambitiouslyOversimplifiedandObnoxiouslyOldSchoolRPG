@@ -169,34 +169,24 @@ If a character's HP is reduced to exactly 0, they suffer a scar. Look up the dam
 | 12 | **Doomed to Die -** You shouldn't have survived that. You have nightmares of your own death. <br />If you fail your next save against becoming Critically Wounded, you die horribly. If you pass, remove this effect and reroll your Maximum HP on 3d6 and keep the result if higher. |  
 
 
-### Injury & Breakage
-If the defender's HP is reduced to less than 0, the overflow damage fills inventory slots at a rate of 1 slot per damage. Each slot of injury should receive an appropriate damage name: 'Bludgeoned', 'Burnt' etc. Items in slots that are replaced by injuries are unusable. If the item is susceptible to the type of damage received in its slot, it is broken instead.
+### Wounds
+If the defender's HP is reduced to less than 0, the overflow damage fills inventory slots at a rate of 1 slot per damage.
 
-*Example: A character is bludgeoned with a mace and opts to put the injury in a slot that was holding a glass jar. The jar is shattered by the blow.*
+Characters die when all of their slots are filled by wounds
 
-Characters suffering at least 1 injury must also make a save using an appropriate attribute or become **Critically Wounded**.
+Characters suffering at least 1 damage to their inventory must also make a save using an appropriate attribute or become **Critically Wounded**.
 
-Characters can suffer conditions such as Hunger, Thirst, Sleeplessness, Poisoning etc. These are treated as injuries.
+A character who is **Critically Wounded** is unable to do anything but crawl around and groan. They will die of their injuries if left unattended for an hour.
 
-Characters die when all of their slots are filled by injuries
+### Deprived
+Characters going without a basic need (food, water, sleep etc) or suffering maladies including diseases or poison are considered **Deprived**. 
 
-#### Example Injuries
-**Bruised -** Unsightly and sore to the touch. **Removal:** Have a good night's rest.
+Deprived characters can not heal their HP through rest.
 
-**Bleeding -** The crimson tide, take a **Bloodloss** injury for each turn you still have this condition. **Removal:** A well tied bandage or tourniquet.
+### Rest
+Characters can recover all of their HP after a drink and a few minutes rest.
 
-**Bloodloss -** You have lost a lot of blood. **Removal:** Food, water and sleep.
-
-**Panicked -** You are sure that you will either shit bricks or piss icicles. **Removal:** Find a quiet spot or strong substance and settle yourself down.
-
-**Hungry -** *Grr..r..r...* **Removal:** Eat something.
-### Critically Wounded
-A character who is Critically Wounded is unable to do anything but crawl around and groan. They will die of their injuries if left unattended for an hour.
-
-### Healing
-Characters can recover all of their HP after a drink and a few minutes rest. A character with at least one injury cannot recover HP in this way.
-
-Injuries must have their removal conditions met to be removed.
+A character spending at least 1 week in a safe haven can recover all of their wounds, unless the fiction would deem otherwise.
 
 <div style="page-break-after: always"></div>
 
