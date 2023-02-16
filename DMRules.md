@@ -30,13 +30,32 @@ If surprised, 1d6\*10' away. Otherwise, 2d6\*10' away.
 | 3-6  | Organised retreat |
 | 7+   | Morale holds |
 
-## Travel
-*Hexes are assuemd to be 6 miles across*
+<div style="page-break-after: always"></div>
 
+## Travel
 ### Navigation and Lost
 Characters see into adjacent hexes. Mountains are visible from 4 hexes away. Weather conditions may hamper visibility.
 
 When no landmark can be seen, characters have a 2-in-6 chance of becoming lost, 4-in-6 in storms. Hide any map and continue play without reference to it, until they are able to re-establish their location. Movement is in a random direction.
+
+### Land
+Encounter 1-in-6 chance every 12 hours.
+
+| Mode of Travel          | Hexes per day (half in inclement terrain) |
+| ----------------------- | ----------------------------------------- |
+| On Foot                 | 2                                         |
+| Wagons/Carts            | 3                                         |
+| Horseback               | 4                                         |
+| Horse, Ridden to Death* | 6                                         |
+
+*- 2-in-6 chance of death per day. Useless by end of journey.
+
+## Dungeons
+1-in-6 chance of encounter per turn. Major activities take 1 turn.
+
+Torches last 6 turns, Lanterns 24 turns
+
+<div style="page-break-after: always"></div>
 
 ### Sea
 
@@ -59,9 +78,9 @@ Value is the ransom paid for the return of a captured vessel - triple this to pa
 <br/>
 
 #### Wind
-Wind persists for 1d6 days. Characters know of a storm 1 day before it arrives.
+Wind persists for 1d6 days. Wind direction changes each day, initial direction rolled randomly. Characters know of a storm 1 day before it arrives.
 
-Wind direction changes each day, initial direction rolled randomly.
+**Storm:** 30% chance of capsizing per day. Lose loose cargo and 40% chance of sinking before being righted by crew. Ignore ship encounters.
 
 Use first number for sailing with the wind, second if one direction over.
 
@@ -72,9 +91,7 @@ Use first number for sailing with the wind, second if one direction over.
 | 9-11 | Strong Breeze | +2/+1         |  | 5-6 | 1 Direction Anti-Clockwise|
 | 12   | Gale/Storm    | +3/+2         |  |  |  |
 
-
-#### Storms
-30% chance of capsizing per day. Lose loose cargo and 40% chance of sinking before being righted by crew. Ignore ship encounters.
+<div style="page-break-after: always"></div>
 
 #### Naval Encounters
 Encounter 1-in-6 chance per day.
@@ -102,19 +119,78 @@ Upon the ocean, any vessel could be found.
 
 Raiders use Karvi, Snekkja and Skeid.
 
-### Land
-Encounter 1-in-6 chance every 12 hours.
+<div style="page-break-after: always"></div>
 
-| Mode of Travel          | Hexes per day (half in inclement terrain) |
-| ----------------------- | ----------------------------------------- |
-| On Foot                 | 2                                         |
-| Wagons/Carts            | 3                                         |
-| Horseback               | 4                                         |
-| Horse, Ridden to Death* | 6                                         |
+## DM Advice
+### Angry GM Session Startup
+1. Call to Order
 
-*- 2-in-6 chance of death per day. Useless by end of journey.
+2. Table Business
 
-## Dungeons
-1-in-6 chance of encounter per turn. Major activities take 1 turn.
+3. Recap Campaign
 
-Torches last 6 turns, Lanterns 24 turns
+    3a. Describe current goal and motivation
+
+    3b. Describe subgoals and motivations
+
+    3c. Recount major plot points from sessions past
+
+    3d. Recap most recent session
+
+    3e. Reiterate import information learned
+
+4. Reintroduce the Party
+
+    4a. Players reintroduce their characters
+
+    4b. DM reintroduces party companions
+
+5. Describe the Current Situation
+
+    5a. Recall the current plan of action
+
+    5b. Describe the characters' current locations and activities
+
+6. Start the game
+
+    6a. Visualise and set the scene
+
+    6b. Invite the principal character to act
+
+<div style="page-break-after: always"></div>
+
+### Chris McDowall DM Advice
+#### Treasure
+- Value exceeds usefulness
+- Reason it isn't claimed
+- Doesn't need to be complex, can provoke thought
+- **Big, Heavy, Useless, Valuable**
+
+#### Adventure
+- Place the treasure somewhere dangerous but interesting
+- A map and table of encounters
+- List immediately obvious features of rooms, characters, paths etc.
+- In parentheses, list the details that characters can only discover through play
+- Fit as many notes as you can on the map
+- Start with broad ideas
+- Go through each one by one and add a new detail that wouldn't be assumed. Repeat
+- **Information, Choice, Impact** 
+- More dangerous threats should be more obvious
+- Don't create soft threats, should have impact
+
+#### The Rival
+- Somebody else always has the same lead as the group
+- The rival is better than the group or their polar opposite
+- Some lackeys, focus on the rival
+
+#### Encounters
+- 6 encounters on a table
+- Can be similar people with different behaviours or group composition
+- At least one result very dangerous
+- List 3 things that the encounter does. Frequent responses or interesting abilities
+    - Infuse with drives and motives. Tie into location
+- **Drive, Impact, Flavour**
+
+#### Foreground Growth
+- Character growth happens through play, not in downtime
+- Characters grow more interesting, not necessarily more powerful
