@@ -1,4 +1,4 @@
-# Player Rules 1.0.0
+# Player Rules 1.2.1
 ## Design Goals
 * Equipment based (no classes or skills)
 * lite (few rules, easy to learn)
