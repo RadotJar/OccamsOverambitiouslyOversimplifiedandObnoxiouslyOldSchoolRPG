@@ -1,4 +1,4 @@
-# Dungeon Master's Rules - 1.0.0
+# Dungeon Master's Rules - 1.2.1
 *Turn back, all ye who haven't the stomach for this hobby so consuming.*
 
 ## Design Goals
