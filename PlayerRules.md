@@ -188,6 +188,16 @@ Characters can recover all of their HP after a drink and a few minutes rest.
 
 A character spending at least 1 week in a safe haven can recover all of their wounds, unless the fiction would deem otherwise.
 
+## Advice
+### Character Introduction Script
+At the start of each session, follow these dot-points when asked to (re)describe your character to the table.
+
+1. Gross physical features ( gender, race, age, build, etc )
+2. Arms, Armour and Clothing ( make sure to detail where all visible weapons are carried )
+3. Symbols, Decorations and their Meanings or Context
+4. Unique feature or Personality Signifier
+5. Recently revealed Fun Fact (Re-introductions only)
+
 <div style="page-break-after: always"></div>
 
 |    | Weapons |
