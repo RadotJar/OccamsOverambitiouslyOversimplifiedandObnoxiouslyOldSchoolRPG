@@ -198,6 +198,45 @@ At the start of each session, follow these dot-points when asked to (re)describe
 4. Unique feature or Personality Signifier
 5. Recently revealed Fun Fact (Re-introductions only)
 
+### Player Principles
+**Agency**
+
+- Attributes, Saves and Special Abilities do not define your character. They are but tools that you have at hand.
+- Don't ask only what your character would do, ask what you would do, too.
+- Be creative with your intuition, items and connections.
+
+**Teamwork**
+
+- Seek consensus from the other players before barreling forward.
+- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+
+**Exploration**
+
+- Asking questions and paying attention to detail is more useful than anything on your character sheet.
+- Take what the GM says without suspicion, but don't shy away from seeking more information.
+- There is no single correct way forward.
+
+**Talking**
+
+- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
+- You'll find that most people are interesting and wil want to talk things through before using violence.
+
+**Caution**
+
+- Fighting is rarely the only choice; consider whether violence is the best way to achieve your goals.
+- Try to stack the odds in your favour and retreat when things seem unfavorable.
+
+**Planning**
+
+- Think of ways to avoid your obstacles through reconnaissance, subtlety and fact finding.
+- Do some research and ask around about your objectives.
+
+**Ambition**
+
+- Set goals and use your means to take steps forward.
+- Expect nothing. Earn your reputation.
+- Keep things moving forward and play to see what happens.
+
 <div style="page-break-after: always"></div>
 
 |    | Weapons |
