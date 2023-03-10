@@ -139,6 +139,11 @@ The humble save is versatile enough to resolve most actions. In the case where a
 - If the character has two, they must make a save
 - If the character has one or none, they fail
 
+### Luck
+LUCK is a special attribute that can be used to improve the odds of a character succeeding on a save. After a save, a player may burn points of LUCK to reroll 1 die per LUCK point spent. This can only be done once per save.
+
+A character's LUCK can be changed through significant in game events. Examples include: Gaining/Losing the favour of a powerful being/organisation, achieving/failing important goals. Any event that makes the players around the table think "wow, that was lucky" should increase a character's LUCK. Similarly, any event that induces a "damn, that was so unlucky", should reduce a character's LUCK.
+
 ## Combat
 On a side's turn, each character may move a short distance and perform one action. Alternatively, a character may move a long distance and perform no action.
 
