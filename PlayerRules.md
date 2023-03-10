@@ -130,7 +130,14 @@ Shields can be used alongside other armour to increase AC by 1. They can also be
 
 ## Core Resolution Mechanics
 ### Saves
-When a character is attempting to do something that cannot be resolved through discussion and failure has meaningful consequences, the humble save is employed. A character rolls a number of d6 equal to their most relevant Attribute and attempts to roll a six (success) on at least one die. The number of successes required can be increased by the DM if the situation is especially difficult. Characters may also add to their dice total through various advantages available to them, including appropriate knowledge, good planning, helpful equipment etc.
+When a character is attempting to do something that cannot be resolved through discussion and failure has meaningful consequences, the humble save is employed. A character rolls a number of d6 equal to their most relevant Attribute divided by 3 (rounded down). The player attempts to roll a six (success) on at least one die. The number of successes required can be increased by the DM if the situation is especially difficult. Characters may also add to their dice total through various advantages available to them, including appropriate knowledge, good planning, helpful equipment etc.
+
+### Skill Checks
+The humble save is versatile enough to resolve most actions. In the case where a character's past skill is especially relevant, or the action would likely require specialised tools, a skill check can be made. Consider the following three factors and adjudicate accordingly: **Time**, **Skill**, **Tools**.
+
+- If the character has all three, they succeed
+- If the character has two, they must make a save
+- If the character has one or none, they fail
 
 ## Combat
 On a side's turn, each character may move a short distance and perform one action. Alternatively, a character may move a long distance and perform no action.
